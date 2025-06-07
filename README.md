@@ -33,14 +33,14 @@ Sou desenvolvedor back-end em formação, sempre buscando aprender e evoluir na 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniiciusTech&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniiciusTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiciusTech&hide=html&layout=compact&theme=tokyonight" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiciusTech&layout=compact&theme=tokyonight" 
   />
 </p>
 
