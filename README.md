@@ -2,8 +2,7 @@
 
 **`Software developer`**
 
-Sou desenvolvedor back-end em formação, sempre buscando aprender e evoluir na prática. Curioso por natureza e focado em criar soluções que realmente fazem a diferença. Cada projeto aqui é parte da minha jornada. Fique à vontade para explorar e, se quiser, trocar uma ideia!
-### Connect with me!
+Sou Marcos Vinícius, apaixonado por tecnologia e movido pela curiosidade. Atualmente, curso Bacharelado em Ciência da Computação e Técnico em Desenvolvimento de Sistemas. Meu desejo constante de aprender me impulsiona a explorar o desenvolvimento back-end e a expandir meus conhecimentos em fullstack. Busco evoluir e transformar ideias inovadoras em soluções reais, sempre aberto a novos desafios e aprendizados. 
     
 <a href="https://www.linkedin.com/in/marcos-vinicius-isteilo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabrielficciobotan"/></a>
 <a href="https://www.instagram.com/viniicius.qz/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="botan.gabriel" /></a>
