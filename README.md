@@ -1,63 +1,51 @@
 # Hello! I'm Vinicius <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" />
 
-**`Software developer`**
+<p>
+Desenvolvedor em formação, focado em construir soluções eficientes e com propósito.
+Atualmente curso Ciência da Computação e Técnico em Desenvolvimento de Sistemas, com ênfase em back-end. Tenho direcionado meus estudos para Node.js e JavaScript, buscando transformar teoria em prática por meio de projetos reais.
 
-Sou Marcos Vinícius, apaixonado por tecnologia e movido pela curiosidade. Atualmente, curso Bacharelado em Ciência da Computação e Técnico em Desenvolvimento de Sistemas. Meu desejo constante de aprender me impulsiona a explorar o desenvolvimento back-end e a expandir meus conhecimentos em fullstack. Busco evoluir e transformar ideias inovadoras em soluções reais, sempre aberto a novos desafios e aprendizados. 
+Sou movido pela curiosidade e pela vontade constante de aprender. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas do mundo real, e estou sempre em busca de desafios que me ajudem a evoluir como profissional.
+</p>
     
+## Sobre mim
+
+- 🎓 Cursando Ciência da Computação e Técnico em Desenvolvimento de Sistemas
+- 💻 Focado em back-end, estudando JavaScript e Node.js
+- 🚀 Buscando aplicar cada aprendizado em projetos práticos e funcionais
+- 📚 Sempre explorando novas tecnologias e participando de eventos e cursos da área
+- 🤝 Acredito no poder da colaboração, da curiosidade e do aprendizado contínuo para crescer como profissional
+
+## ⭐ GitHub Stats
+<a href="https://github.com/eduardavieira-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniiciusTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiciusTech&layout=compact&langs_count=6&theme=tokyonight"/>
+
+
+
+
+  ## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
+
+
+
+<p align="left"> 
+  Atualmente estou no <strong>2º período da graduação em Ciência da Computação</strong> e também curso o <strong>Técnico em Desenvolvimento de Sistemas</strong>. <br><br>
+  Tenho me aprofundado em <strong>JavaScript</strong>, com foco em <strong>Node.js</strong> para o back-end. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
 <a href="https://www.linkedin.com/in/marcos-vinicius-isteilo/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gabrielficciobotan"/></a>
 <a href="https://www.instagram.com/viniicius.qz/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="botan.gabriel" /></a>
 
-#
-
-## 🚀 Minhas Skills
-
-###
-
-<p align="left">Linguagens & Frameworks</p>
-
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 
-<br/>
-<br/>
-<br/>
 
-<p align="left">IDE</p>
-
-<img align="left" alt="VScode" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Pycharm" title="Git" width="40px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-
-
-###
-
-
-<br/>
-<br/>
-
-## ⭐ GitHub Stats
-
-<p>
-  <img 
-   align="left" 
-    alt="GitHub Stats" 
-    height="175" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=ViniiciusTech&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="175" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiciusTech&layout=compact&theme=tokyonight" 
-  />
-</p>
 
 
