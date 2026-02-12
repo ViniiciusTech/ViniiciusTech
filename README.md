@@ -6,7 +6,7 @@ Backend Developer focused on building scalable APIs and real-world systems.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, TypeScript  
+**Languages:** Java, JavaScript  
 **Backend:** Spring Boot, Node.js, Express  
 **Databases:** PostgreSQL, MongoDB  
 **Tools:** Docker, Git, CI/CD
